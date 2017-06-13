@@ -1,6 +1,7 @@
 # KRA-Rturns
 This package tries to help in autofilling kra returns.
 Note: This is still not ready, it is in development. Help by contributing, just fork and then create a PR.
+![GIF](https://github.com/geofmureithi/kra-turns/blob/master/res/peek.gif "Auto Input")
 
 ## Architecture
   - Node.js 7+ recommended
