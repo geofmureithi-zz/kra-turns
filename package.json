@@ -1,0 +1,23 @@
+{
+  "name": "kraturns",
+  "version": "1.0.0",
+  "description": "This package tries to help in autofilling kra returns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kra",
+    "returns",
+    "protractor"
+  ],
+  "author": "geofmureithi",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-notifier": "^5.1.2",
+    "node-zip": "^1.1.1",
+    "notify-send": "^0.1.2",
+    "xlsx": "^0.10.5"
+  }
+}
