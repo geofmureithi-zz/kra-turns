@@ -16,7 +16,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "dotenv": "^4.0.0",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^8.0.1",
     "node-zip": "^1.1.1",
     "notify-send": "^0.1.2",
     "xlsx": "^0.10.5"
