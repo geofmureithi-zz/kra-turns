@@ -19,6 +19,6 @@
     "node-notifier": "^5.1.2",
     "node-zip": "^1.1.1",
     "notify-send": "^0.1.2",
-    "xlsx": "^0.10.5"
+    "xlsx": "^0.17.0"
   }
 }
